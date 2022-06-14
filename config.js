@@ -1,5 +1,5 @@
 var api_locParams = "q=Shanghai";
-var api_appId = "dd5ced0c89c71194cb84b16fb49e7e65";
+var api_appId = "b69b5388c1939577fb9addd59525c550";
 var api_lang = "en"
 var api_units = "metric"; 
 
