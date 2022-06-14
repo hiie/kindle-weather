@@ -1,6 +1,7 @@
-var api_locParams = "q=Shanghai";
+var api_locParams = "lat=121.458061&lon=31.222219";
+// or api_locParams = "q=Shanghai";
 var api_appId = "b69b5388c1939577fb9addd59525c550";
-var api_lang = "en"
+var api_lang = "zh_cn"
 var api_units = "metric"; 
 
 var api_params = null;
